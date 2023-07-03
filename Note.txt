@@ -1,0 +1,3 @@
+Questo esempio ha 3 pagine
+Utilizza la navigazione react
+la pagina 3 effettua la scansione con la libreria BarCodeScanner
